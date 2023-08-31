@@ -10,4 +10,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Official organisation of Noob Dev Official (noob_dev54)
+Official organisation of Noob Dev 54 (noobdev54)
